@@ -15,3 +15,10 @@ Default branch has been changed to lab3
 # Activity 3
 
 ![Alt text](images/Activity3.png)
+
+# Activity 4
+
+![Alt text](images/Activity4_log.png)
+
+![Alt text](images/Activity4_website.png)
+
